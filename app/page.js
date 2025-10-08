@@ -237,8 +237,8 @@ export default function HomePage() {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Rithwiik-Resume.pdf';
-    link.download = 'Rithwiik-Resume.pdf';
+    link.href = '/Rithwiik_Resume.pdf';
+    link.download = 'Rithwiik_Resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
