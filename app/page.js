@@ -63,6 +63,18 @@ const Projects = [
     code: "https://github.com/rithwikreddy004/A-Unity-chess-engine-with-Minimax-Alpha-Beta-Pruning",
     live: "https://drive.google.com/file/d/1TbdgBeaTcn0NmnbJ5QBslqNtUBC_TmtU/view",
   },
+
+  {
+    title: "Weather App",
+    timeline: "Oct 2025 – Oct 2025 | WEB APP",
+    description:
+      "This is a sleek, responsive weather application built with React and plain CSS. It provides real-time weather data for any city in the world, fetching information from the Open-Meteo API and displaying it in a clean, dark-mode interface.",
+    tech: ["React Js", "CSS","Open-Meteo API"],
+    code: "https://github.com/rithwikreddy004/WeatherApp",
+    live: "https://weather-app-swart-rho-95.vercel.app/",
+  },
+
+
 ];
 
 
